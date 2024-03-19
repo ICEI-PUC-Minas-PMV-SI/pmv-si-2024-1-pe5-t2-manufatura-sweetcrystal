@@ -1,4 +1,4 @@
-# Título do Projeto
+# Sweet Crystal
 
 `CURSO: Sistemas de Informação`
 
@@ -6,7 +6,7 @@
 
 `Eixo: 5`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto possui como proposta o desenvolvimento de uma rede que conecte todos os departamentos e setores de uma empresa manufatureira do setor de açúcar chamada Sweet Crystal que emprega cerca de 250 colaboradores.
 
 ## Integrantes
 
